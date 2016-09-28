@@ -1,5 +1,5 @@
 {
-  "name": "Realtime Chrome Push Demo",
+  "name": "Realtime Chrome",
   "short_name": "Push Demo",
   "gcm_sender_id": "649502689900"
 }
