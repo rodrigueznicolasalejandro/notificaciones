@@ -38,7 +38,7 @@ self.addEventListener('notificationclick', function(event) {
         return client.focus();
     }
     if (clients.openWindow)      
-      var url = '/webpush';
+      var url = '/notificaciones';
       return clients.openWindow(url);
   }));
 });
